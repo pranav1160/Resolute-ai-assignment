@@ -3,7 +3,7 @@
 A simple app to track daily nutrition intake, including calories, carbs, fats, and proteins. Users can compare recommended and consumed values with visual charts.
 
 ## Demo
-🎥 Watch a short demo: [YouTube Link](https://youtube.com/shorts/gfeMmZujAgQ?si=Jh3J5iqbL3_utm9J)
+ [![Watch the video](https://youtube.com/shorts/gfeMmZujAgQ?si=Jh3J5iqbL3_utm9J)
 
 ## Features
 - View recommended vs. consumed nutrition
